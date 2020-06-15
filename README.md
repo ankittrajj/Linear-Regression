@@ -1,1 +1,1 @@
-# Linear-Regression Basic Project -1 ----> House Price Prediction using ML model
+# LinearRegression_Basic_Project-1----> House_Price_Prediction
